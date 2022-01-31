@@ -1,0 +1,67 @@
+.content{
+    background: #303034;
+    min-height:100vh;
+}
+
+#title{
+    min-width:100%;
+    background: #C4C4C4;
+    display:flex;
+    height:8rem;
+    color:#666666;
+
+    
+}
+
+#title img{
+    margin-left:3rem;
+}
+
+#title h2{
+    font-family: 'Abril Fatface', cursive;
+    font-weight:400;
+    font-size:5.5rem;
+    margin-left:4rem;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    color:#CDBBDB;
+
+}
+
+.npm{
+    font-weight:700;
+    font-size:3.2rem;
+
+    margin-top:10rem;
+    margin-left:11rem
+}
+
+.hello-world{
+    font-weight:700;
+    font-size:3.8rem;
+
+    margin-left:19rem;
+    margin-top: 5rem;
+}
+
+.p1{
+    font-weight:400;
+    font-size:3.5rem;
+
+    margin-left:19rem;
+    margin-top: 5rem;
+    margin-right:13rem;
+    text-align: justify;
+}
+
+.p2{
+    font-weight:400;
+    font-size:3.5rem;
+
+    margin-left:19rem;
+    margin-top: 3.5rem;
+    margin-right:13rem;
+    text-align: justify;
+}

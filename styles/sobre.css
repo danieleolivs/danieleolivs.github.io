@@ -10,6 +10,7 @@
     height:8rem;
     color:#666666;
 
+
     
 }
 
@@ -18,15 +19,15 @@
 }
 
 #title h2{
-    font-family: 'Abril Fatface', cursive;
-    font-weight:400;
+    font-family: 'Poppins', sans-serif;
+    font-weight:900;
     font-size:5.5rem;
     margin-left:4rem;
 }
 
 p{
     font-family: 'Poppins', sans-serif;
-    color:#999999;
+    color:#CDBBDB;
 
 }
 

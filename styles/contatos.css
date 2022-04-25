@@ -1,0 +1,83 @@
+#contatos{
+    height:100vh;
+    font-family: 'Poppins', sans-serif;
+    background-color:#585672;
+    
+}
+
+.conteudo{
+    position:relative;
+    z-index:1;
+    height:100vh
+}
+
+#contatos .image{
+    position:absolute;
+    display:flex;
+    justify-content: space-between;
+    width:98.5vw
+}
+
+#img_1 {
+    width: 40rem;
+    height: 100vh;
+}
+
+#img_2{
+    width: 30rem;
+    height: 100vh;
+    
+}
+
+.title{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color:#FFF9F9;
+    padding: 4rem 8rem;
+}
+
+.title h2{
+    font-size:7rem;
+    font-weight:900
+}
+
+.title span{
+    font-size:4rem;
+    font-weight:700
+}
+
+.texto_contato{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.texto_contato p{
+    width:40rem;
+    font-size:3rem;
+    font-weight:700;
+    color:#d8cae4;
+    margin-bottom:2rem
+}
+
+.texto_contato .redes_contatos{
+    display:flex;
+    align-items:center;
+    justify-content:center
+}
+
+#linkedin img, #instagram img, #twitter img{
+    width: 7rem;
+    height:7rem;
+}
+
+.texto_contato .redes_contatos a{
+    padding:2rem
+}
+
+.texto_contato .redes_contatos img:hover{
+    transform:scale(.9)
+}
+
